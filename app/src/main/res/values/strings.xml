@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnboardingCompose</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_start">Start Using The App</string>
+</resources>
